@@ -16,10 +16,10 @@
 * Then comment it out so you can type your fetch in the answer area. Yes my answers are there, but we are learning syntax and getting used to fetches so test things out! You learn from making mistakes! 
 * This is good starter code for any fetches you will need to do. I can't stop you from copying this code into your projects, but you won't learn and can get into bugs that make no sense. So learn the syntax first and understand the basics and you will be such a better coder. 
 ---
-# Learning outcome : 
+## Learning outcome : 
 ### You should come out of this practice comfortable with fetches and if not its okay keep practicing! This is here for anyone who needs it no matter how advanced you are.
 --- 
-## The exercises use the https://jsonplaceholder.typicode.com/todos API endpoint to fetch sample todo data. You can tweak the URL to return different sets of data. In my code I have /todos/1 to return the first object if you want all of the objects just use it without the /1. 
+### The exercises use the https://jsonplaceholder.typicode.com/todos API endpoint to fetch sample todo data. You can tweak the URL to return different sets of data. In my code I have /todos/1 to return the first object if you want all of the objects just use it without the /1. 
 
 
-## Let me know if you have any other questions! Happy coding!
+### Let me know if you have any other questions! Happy coding!
