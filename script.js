@@ -63,7 +63,9 @@
 //         const res = await axios.get(`https://jsonplaceholder.typicode.com/todos/1`);
 //         console.log(res)
 //     }
-//     catch{err => console.log(err)}
+//     catch (err) {
+    // console.log(err)
+    // }
 // }
 // dataResponse();
 
